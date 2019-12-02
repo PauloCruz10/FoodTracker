@@ -3,7 +3,7 @@
 //  FoodTracker
 //
 //  Created by Paulo Cruz on 02/12/2019.
-//  Copyright © 2019 Paulo Cruz. All rights reserved.
+//  Copyright © 2019 Apple Inc. All rights reserved.
 //
 
 import SwiftUI
